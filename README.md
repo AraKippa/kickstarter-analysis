@@ -1,4 +1,4 @@
-# kickstarter-analysis
+# A Kickstarter analysis for the Optimal Launch of Louise's Play
 KS analysis to uncover trends
 ---
 After looking over 4115 kickstarter projects for overall trends and then focusing on theater/play projects specifically.  Two items came up frequently for successful kickstarter campaigns.  They were one: Requesting money during the summer months, and two: Requesting a moderate amount of money.  
